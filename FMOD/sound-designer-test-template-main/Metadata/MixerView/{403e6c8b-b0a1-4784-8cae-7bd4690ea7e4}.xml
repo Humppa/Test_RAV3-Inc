@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="UiMixerView" id="{403e6c8b-b0a1-4784-8cae-7bd4690ea7e4}">
+		<property name="name">
+			<value>Knock</value>
+		</property>
+		<relationship name="assignedStrips">
+			<destination>{137d7500-7931-4a1f-b7f0-bb60b87c94bc}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{2584e5da-8087-4874-ae1e-a4a39d80d1f0}</destination>
+		</relationship>
+	</object>
+</objects>

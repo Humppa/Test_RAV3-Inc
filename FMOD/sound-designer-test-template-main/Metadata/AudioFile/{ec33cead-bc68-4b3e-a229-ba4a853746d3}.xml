@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ec33cead-bc68-4b3e-a229-ba4a853746d3}">
+		<property name="assetPath">
+			<value>Венский вальс — Hijo De La Luna.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>298.89306122448977</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2e3ba807-f550-4c49-b102-6bc0865f8146}</destination>
+		</relationship>
+	</object>
+</objects>

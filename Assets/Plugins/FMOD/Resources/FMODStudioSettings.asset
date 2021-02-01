@@ -15,8 +15,8 @@ MonoBehaviour:
   SwitchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../../FMOD project/sound-designer-test-template-main/sound-designer-test-template-main.fspro
-  sourceBankPath: ..\..\FMOD project\sound-designer-test-template-main\Build
+  sourceProjectPath: FMOD/sound-designer-test-template-main/sound-designer-test-template-main.fspro
+  sourceBankPath: FMOD\sound-designer-test-template-main\Build
   SourceBankPathUnformatted: 
   AutomaticEventLoading: 1
   BankLoadType: 0

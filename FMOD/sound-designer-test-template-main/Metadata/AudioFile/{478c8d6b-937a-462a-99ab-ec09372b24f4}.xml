@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{478c8d6b-937a-462a-99ab-ec09372b24f4}">
+		<property name="assetPath">
+			<value>garbage chute door.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.9000680272108843</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2e3ba807-f550-4c49-b102-6bc0865f8146}</destination>
+		</relationship>
+	</object>
+</objects>

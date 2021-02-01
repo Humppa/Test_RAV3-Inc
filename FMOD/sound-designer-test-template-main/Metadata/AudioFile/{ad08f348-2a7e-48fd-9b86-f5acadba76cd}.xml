@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ad08f348-2a7e-48fd-9b86-f5acadba76cd}">
+		<property name="assetPath">
+			<value>голуби.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>51.644081632653062</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2e3ba807-f550-4c49-b102-6bc0865f8146}</destination>
+		</relationship>
+	</object>
+</objects>

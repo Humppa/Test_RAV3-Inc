@@ -1,0 +1,2130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9087479946363021455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637477299456396764
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8743846578980434960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/knock on the door
+  m_EditorClassIdentifier: 
+  Path: event:/knock on the door
+  guid: 5691508f0a411f4f85927cc4cdcdc54f
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 593
+--- !u!114 &-8584609070202607718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478031554980773
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8511550815927771144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/knock on the door 2D
+  m_EditorClassIdentifier: 
+  Path: event:/knock on the door 2D
+  guid: d8c8fc7b718d594faae80d4c7875d023
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2010
+--- !u!114 &-8456343618142610770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476257091188913
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8210478986042612864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Pigeons
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Pigeons
+  guid: b51107cc7c825344924abc6ca1448f95
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 51644
+--- !u!114 &-7812984928418958338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Music_De Luna
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Music_De Luna
+  guid: 7a964bdff2374b40abda0bb47b515cc0
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 3.8
+  Length: 273991
+--- !u!114 &-7797227931090956681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/flies and whistle
+  m_EditorClassIdentifier: 
+  Path: event:/3D/flies and whistle
+  guid: ad2ddbeb4f1bb0499966aa84cfded6b2
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22000
+--- !u!114 &-7651604764756651160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/2D/Entrance sound
+  m_EditorClassIdentifier: 
+  Path: event:/2D/Entrance sound
+  guid: 8f2f8825740cf543a64eabc7d3aa08c7
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 121295
+--- !u!114 &-7563997642282283376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478039034882974
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7456760022961191947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476241988594848
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7346604483467558778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/door close
+  m_EditorClassIdentifier: 
+  Path: event:/3D/door close
+  guid: 68ae815d4b8e1543b4314c7e44ab1bab
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1489
+--- !u!114 &-7128653851903702406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478018093458649
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6835509018095978618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476422392992107
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6369037888741818210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637477294917684621
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6170805922883275727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478036536449693
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6111654652107557347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478065631779747
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-5809223012658221268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Footsteps
+  guid: c92eb2fecdaad34fb478e49f90f686df
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 312
+--- !u!114 &-5701155274881611729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/2D/garbage chute door 2D
+  m_EditorClassIdentifier: 
+  Path: event:/2D/garbage chute door 2D
+  guid: 7c66d16c9759eb40823e9f9a284146c3
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1900
+--- !u!114 &-5301326054452562387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478054316833280
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5210065878766732148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Music_De Luna
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Music_De Luna
+  guid: 7a964bdff2374b40abda0bb47b515cc0
+  Banks:
+  - {fileID: -498925783581146469}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 273991
+--- !u!114 &-4846246417804434488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478040986778442
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4736875577179590618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478065631171143
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4577237797060033865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478055252758698
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4404792909631458294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/knock on the door
+  m_EditorClassIdentifier: 
+  Path: event:/3D/knock on the door
+  guid: 5691508f0a411f4f85927cc4cdcdc54f
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 593
+--- !u!114 &-4319502135585245300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478018093917748
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4226673568191686760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/knock on the door
+  m_EditorClassIdentifier: 
+  Path: event:/3D/knock on the door
+  guid: 5691508f0a411f4f85927cc4cdcdc54f
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 593
+--- !u!114 &-4123107553817190365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476235537959281
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4096202675225949149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476825285950761
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3943396632534833299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476416927695004
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3240586358931266142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476437592236844
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2974658766191364478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637478018093937650
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1270
+  Exists: 0
+--- !u!114 &-2948329808355419052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/2D/Entrance sound
+  m_EditorClassIdentifier: 
+  Path: event:/2D/Entrance sound
+  guid: 8f2f8825740cf543a64eabc7d3aa08c7
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 121295
+--- !u!114 &-2929452603497614641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478055254303904
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2918073252375928434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476431628059863
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2733851866908338346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476241944360061
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2636035929725828486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Party
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Party
+  guid: 9abd044bec576b45b7790ce5dc334a24
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 132524
+--- !u!114 &-2560461233628875556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/garbage chute door
+  m_EditorClassIdentifier: 
+  Path: event:/3D/garbage chute door
+  guid: ab967f35fc76954b8979cff03d7f4128
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1900
+--- !u!114 &-2228100869872399117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476864660483346
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2121315610719306443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476171585000234
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1800694394097528018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637477298344636058
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1662720190324121557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476417118665649
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1370932730463461608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/garbage chute door
+  m_EditorClassIdentifier: 
+  Path: event:/3D/garbage chute door
+  guid: ab967f35fc76954b8979cff03d7f4128
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1900
+--- !u!114 &-1288234348969610882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478031507806423
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1206837939476847804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476226368718596
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1198287530857982246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/voice door close
+  m_EditorClassIdentifier: 
+  Path: event:/3D/voice door close
+  guid: 3a16cee1172be4469ec5b0f934fe143a
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2410
+--- !u!114 &-1194950335760628123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/voice bad idea
+  m_EditorClassIdentifier: 
+  Path: event:/3D/voice bad idea
+  guid: 713a47096ff8d54bac52ebf6e5565e26
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4033
+--- !u!114 &-954124436084901303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/flies
+  m_EditorClassIdentifier: 
+  Path: event:/3D/flies
+  guid: ad2ddbeb4f1bb0499966aa84cfded6b2
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22000
+--- !u!114 &-729657503654215614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476238171147803
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-652931046698354713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476874725369305
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-648232473577500374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478028062760869
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-542437622709804315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/jump
+  m_EditorClassIdentifier: 
+  Path: event:/jump
+  guid: 60562a8182e37d4d81dd2bc96de29724
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1659
+--- !u!114 &-498925783581146469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478021356432052
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 196014006935745281}
+  - {fileID: -4736875577179590618}
+  - {fileID: -6111654652107557347}
+  EditorEvents:
+  - {fileID: -4404792909631458294}
+  - {fileID: 5852269976079269585}
+  - {fileID: -7346604483467558778}
+  - {fileID: -7812984928418958338}
+  - {fileID: -2948329808355419052}
+  - {fileID: 2356154924821426973}
+  - {fileID: -2560461233628875556}
+  - {fileID: 1871681706144808342}
+  - {fileID: -5809223012658221268}
+  - {fileID: -7797227931090956681}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -6111654652107557347}
+  StringsBanks:
+  - {fileID: 196014006935745281}
+  stringsBankWriteTime: 637478065631799925
+  cacheVersion: 3
+--- !u!114 &1349151602576908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Cymatics - LIFE - Rain - Light 4
+  m_EditorClassIdentifier: 
+  Path: event:/Cymatics - LIFE - Rain - Light 4
+  guid: 8f2f8825740cf543a64eabc7d3aa08c7
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 36000
+--- !u!114 &196014006935745281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637478065631799925
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1232
+  Exists: 1
+--- !u!114 &396843976078232291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478018093458649
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &436983427533603148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476952988105469
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &628036020531950470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476868087240595
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &631812120542417046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Entrance sound
+  m_EditorClassIdentifier: 
+  Path: event:/Entrance sound
+  guid: 8f2f8825740cf543a64eabc7d3aa08c7
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 121295
+--- !u!114 &977288222964611272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637477294917305642
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1186268700813288442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Character/Footsteps
+  guid: c92eb2fecdaad34fb478e49f90f686df
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 312
+--- !u!114 &1272188009754613655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637477231693175008
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1327040305358676041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478036535851983
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1346142960181771784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478027589915105
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1871681706144808342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Pigeons
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Pigeons
+  guid: b51107cc7c825344924abc6ca1448f95
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 51644
+--- !u!114 &2296493590184488680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478031509884896
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2344703884095146592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478027587838035
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2356154924821426973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/Party
+  m_EditorClassIdentifier: 
+  Path: event:/3D/Party
+  guid: 9abd044bec576b45b7790ce5dc334a24
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 3.8
+  Length: 132524
+--- !u!114 &2397047048011133670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.strings.bank
+  SubDir: 
+  lastModified: 637478021356440399
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1220
+  Exists: 1
+--- !u!114 &2524477204552610956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476374651149776
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2529509566713504352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476873712190824
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2595673498995070479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637477298344277020
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2663340072212232578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637477292649058147
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2701547655363816474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478040026516050
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2800536420813361969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476878988635847
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2929203624768655708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/voice pigeons
+  m_EditorClassIdentifier: 
+  Path: event:/3D/voice pigeons
+  guid: 9bfaec131051ce43bb535fa3c2899013
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2721
+--- !u!114 &3293531840347705866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478031555685495
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3314472607578886765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478052637107035
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3722598267153156888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478040027200007
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4860093893685521943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478016518542411
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5034016303018483201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476222185692246
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5111268558244913655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478039033158618
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5402356156244948735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476825538028327
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5480317165371216953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/jump
+  m_EditorClassIdentifier: 
+  Path: event:/Character/jump
+  guid: 60562a8182e37d4d81dd2bc96de29724
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1659
+--- !u!114 &5771888915881446762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478018093917748
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5773820522251459359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478052639976736
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5809628923476425028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/door close
+  m_EditorClassIdentifier: 
+  Path: event:/3D/door close
+  guid: 68ae815d4b8e1543b4314c7e44ab1bab
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1489
+--- !u!114 &5852269976079269585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Character/jump
+  m_EditorClassIdentifier: 
+  Path: event:/Character/jump
+  guid: 60562a8182e37d4d81dd2bc96de29724
+  Banks:
+  - {fileID: -6111654652107557347}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2120
+--- !u!114 &6687287454278216616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476429984063436
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7193605259172120480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476948464483704
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7226918612936180431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478021356859019
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &7248081304128159807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476308840896914
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7324609983240667971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478028061051236
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7475599685536737448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476455376050462
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7514850796859513475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478016525831556
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7558229090642109545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478033993607672
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7686130393626175181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476873073621085
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8143616391912035119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476441238580101
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8151754679575571877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637478033992745968
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8251257058059081429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637477299456775752
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8329492477674253620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476842210608015
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8397133141023740479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/3 floor.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/3 floor.bank
+  SubDir: 
+  lastModified: 637477231695179627
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8575692054592258290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Footsteps
+  m_EditorClassIdentifier: 
+  Path: event:/Footsteps
+  guid: c92eb2fecdaad34fb478e49f90f686df
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 312
+--- !u!114 &8738411148891390845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/3D/flies
+  m_EditorClassIdentifier: 
+  Path: event:/3D/flies
+  guid: ad2ddbeb4f1bb0499966aa84cfded6b2
+  Banks:
+  - {fileID: 7226918612936180431}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22000
+--- !u!114 &8858481095050801314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478040987364514
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8914933056135313412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637478054318944801
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8949480802335563226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637476965972230602
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9201842839538752468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../FMOD project/sound-designer-test-template-main/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637477292647861350
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
